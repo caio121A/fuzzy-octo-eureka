@@ -1,9 +1,12 @@
-me ###Boas Vindas Ao Meu perfil
+### Boas Vindas Ao Meu perfil
 
-Meu nome é Caio maia 
+Meu nome é Caio maia 💙
 
-estou me desenvolvendo na linguagem Java
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem Javascript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-Vou compartilhar meus projetos aqui 
+### Voce entrar em contato comigo 📫
 
+caio.varoa.souza@escola.pr.gov.br
 
